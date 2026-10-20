@@ -8,7 +8,7 @@ I build machine learning for wearable physiological signals: signal quality asse
 
 - Wearable cardiomechanical sensing
 - Generative modeling of physiological signals
-- Edge AI and on-device inference (e.g., Coral TPU)
+- Edge AI and on-device inference on deep learning accelerators
 - Federated learning and privacy-preserving ML
 
 ## 📚 Selected Publications

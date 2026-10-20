@@ -1,44 +1,37 @@
 # Michael J. Cho
 
-Welcome to my GitHub profile! I'm a researcher and professional passionate about advancing technology and knowledge through innovative research and development.
+Ph.D. candidate in Electrical and Computer Engineering at **Georgia Tech** ([Inan Research Lab](https://irl.gatech.edu/)) and **NSF Graduate Research Fellow**. Currently an Applied Machine Learning Scientist co-op on **WHOOP**'s Core Machine Learning Research team.
 
-## 🌐 About Me
+I build machine learning for wearable physiological signals: signal quality assessment, denoising, and generative models for cardiomechanical signals (ECG, SCG, PPG), along with real-time, on-device deep learning on edge accelerators.
 
-I'm dedicated to pushing the boundaries of technology and contributing to the scientific community through rigorous research and collaboration. My work spans multiple domains, combining theoretical foundations with practical applications.
+## 🔬 Research Interests
 
-For a comprehensive overview of my background, expertise, and current projects, please visit my personal website at **[michaelcho.info](https://michaelcho.info)**.
+- Wearable cardiomechanical sensing
+- Generative modeling of physiological signals
+- Edge AI and on-device inference (e.g., Coral TPU)
+- Federated learning and privacy-preserving ML
 
-## 📚 Research & Publications
+## 📚 Selected Publications
 
-My research contributions are documented and available through Google Scholar, where you can explore my published works, citations, and ongoing research initiatives:
+- **Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation.** *NeurIPS 2026.* [arXiv](https://arxiv.org/abs/2610.08510)
+- **Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validated Cardiac Timings.** *Scientific Data, 2026* (first author). [DOI](https://doi.org/10.1038/s41597-026-06733-2)
+- **EffSCG: An Efficient Framework for Real-Time Seismocardiogram Denoising on Resource-Constrained Edge Devices.** *IEEE JBHI, 2026.* [DOI](https://doi.org/10.1109/JBHI.2026.3718375)
+- **Quantifying Opioid Withdrawal through Cardio-Mechanical Variability Using Multi-Modal Wearable Sensors.** *IEEE BSN, 2025* (first author). [DOI](https://doi.org/10.1109/BSN66969.2025.11337294)
 
-**[View My Publications on Google Scholar](https://scholar.google.com/citations?user=AvatR0UAAAAJ&hl=en)**
+Full list on [Google Scholar](https://scholar.google.com/citations?user=AvatR0UAAAAJ&hl=en).
 
-## 💼 Professional Experience
+## 🛠️ Tools
 
-For detailed information about my professional journey, work experience, skills, and accomplishments, please visit my LinkedIn profile:
+**ML & Data:** Python, PyTorch, TensorFlow, Pandas, Dask, NumPy, Scikit-learn, Snowflake, Metaflow, MLflow<br>
+**Systems:** Docker, Kubernetes, AWS, Slurm (HPC), Linux, Proxmox<br>
+**Languages:** Python, C++/C, MATLAB, SQL, Bash, Java, Lua
 
-**[Connect with Me on LinkedIn](https://www.linkedin.com/in/michael-j-cho/)**
+## 🔗 Links
 
-## 📄 Curriculum Vitae
-
-For a comprehensive overview of my academic and professional background, you can download my CV:
-
-**[Download My CV](https://drive.google.com/file/d/1AHnMgHqljHeMSwtitYuGQxZrsKrH6gBJ/view)**
-
-## 🔗 Quick Links
-
-| Resource | Link |
-|----------|------|
-| 🌐 Personal Website | [michaelcho.info](https://michaelcho.info) |
+| | |
+|---|---|
+| 🌐 Website | [michaelcho.info](https://michaelcho.info) |
+| 📄 CV | [Full CV](https://michaelcho.info/files/cv-full.pdf) · [2-page](https://michaelcho.info/files/cv.pdf) |
 | 📚 Google Scholar | [Publications](https://scholar.google.com/citations?user=AvatR0UAAAAJ&hl=en) |
 | 💼 LinkedIn | [michael-j-cho](https://www.linkedin.com/in/michael-j-cho/) |
-| 📄 Curriculum Vitae | [View CV](https://drive.google.com/file/d/1AHnMgHqljHeMSwtitYuGQxZrsKrH6gBJ/view) |
-
-## 📫 Get In Touch
-
-I'm always interested in discussing research collaborations, innovative projects, and opportunities to contribute to meaningful work. Feel free to reach out through any of the platforms linked above.
-
----
-
-*This profile is regularly updated to reflect my latest work and contributions to the field.*
+| 📫 Email | [mcho314@gatech.edu](mailto:mcho314@gatech.edu) |
